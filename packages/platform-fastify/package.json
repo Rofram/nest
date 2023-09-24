@@ -21,6 +21,7 @@
     "@fastify/cors": "8.3.0",
     "@fastify/formbody": "7.4.0",
     "@fastify/middie": "8.3.0",
+    "@fastify/multipart": "^7.7.3",
     "fastify": "4.21.0",
     "light-my-request": "5.10.0",
     "path-to-regexp": "3.2.0",
